@@ -1,7 +1,7 @@
 # Regex-Hackerrank-Solutions
 
-###Solutions to all the challenges under Regex Practice Questions
-###It includes the sub domians:
+###Solutions to all the challenges under Regex Practice Questions###
+It includes the sub domians:
 1. Introduction
 2. Character Class
 3. Repetitions
